@@ -39,7 +39,7 @@ button {
 }
 
 .slider .swiper-slide {
-  background: url('/images/slider-bg.png');
+  background: url('../images/slider-bg.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -85,7 +85,7 @@ button {
 
 .slide-img {
 
-  background-image: url('/images/nordica-main.png');
+  background-image: url('../images/nordica-main.png');
   background-size: 105%;
   background-position: top;
   background-repeat: no-repeat;
@@ -149,19 +149,19 @@ button {
 }
 
 .popular-item__image[data-bg="item-1"] {
-  background-image: url('/images/item-1.png');
+  background-image: url('../images/item-1.png');
 }
 
 .popular-item__image[data-bg="item-2"] {
-  background-image: url('/images/item-2.png');
+  background-image: url('../images/item-2.png');
 }
 
 .popular-item__image[data-bg="item-3"] {
-  background-image: url('/images/item-3.png');
+  background-image: url('../images/item-3.png');
 }
 
 .popular-item__image[data-bg="item-4"] {
-  background-image: url('/images/item-4.png');
+  background-image: url('../images/item-4.png');
 }
 
 
@@ -273,7 +273,7 @@ button {
 .showroom-image {
   border-radius: 12px;
   order: 2;
-  background: url('/images/showroom.png');
+  background: url('../images/showroom.png');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
